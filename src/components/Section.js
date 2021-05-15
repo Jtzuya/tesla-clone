@@ -28,7 +28,7 @@ function Section(props) {
                 </ButtonGroup>
                 
                 <Jump>
-                    <DownArrow src="../images/down-arrow.svg" />
+                    <DownArrow src="./images/down-arrow.svg" />
                 </Jump>
             </Buttons>
 
